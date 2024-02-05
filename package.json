@@ -96,9 +96,7 @@
     "yaml": "^2.3.4"
   },
   "scripts": {
-    
-    "build:css": "tailwindcss -i ./src/input.css -o ./public/output.css --watch",
-    "start:dev": "live-server public"
+
   },
   "keywords": [],
   "author": "",
