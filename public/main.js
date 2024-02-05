@@ -15,4 +15,4 @@ document.addEventListener('click', (e) => {
             topMenu.classList.toggle('hidden'); //click outside appear hidden
         }
     }
-})
+}
