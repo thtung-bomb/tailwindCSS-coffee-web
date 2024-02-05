@@ -2,7 +2,6 @@
 @tailwind base;
 @tailwind components;
 
-
 .ntt-top-menu-expanded {
   @apply absolute top-10 z-50 w-full bg-white text-center;
 }
